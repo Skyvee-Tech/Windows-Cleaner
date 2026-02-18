@@ -1,4 +1,4 @@
-# 🧹 SKYVEE TECH — Windows Super Cleaner
+# 🧹 SKYVEE TECH — Windows Cleaner
 
 Tool pembersih sampah Windows buatan SKYVEE TECH. Bersihkan file sampah, cache browser, Windows Update, Recycle Bin, dan lainnya — langsung dari Command Prompt, cepat dan mudah.
 
@@ -14,7 +14,7 @@ Tool pembersih sampah Windows buatan SKYVEE TECH. Bersihkan file sampah, cache b
 
 ## 🚀 Cara Menjalankan
 
-1. Download file `Super-Cleaner-SKYVEE.exe`
+1. Download file `Windows-cleaner-by-skyvee.exe`
 2. Klik kanan file tersebut
 3. Pilih **"Run as administrator"**
 4. Pilih menu yang diinginkan
